@@ -1,0 +1,16 @@
+item,model,condition,task,claude_h,claude_s,claude_c,gpt4o_h,gpt4o_s,gpt4o_c
+1,gemini-pro,wlm_json,T02,5,4,3,5,5,4
+2,claude,base_b,T09,5,4,5,5,5,5
+3,claude,base_b,T16,5,4,4,5,4,4
+4,gpt-4o,base_a,T38,5,4,5,5,5,5
+5,gemini-pro,wlm_sl,T02,4,4,3,5,5,5
+6,claude,wlm_hybrid_v2,T12,5,4,5,5,5,5
+7,qwen-7b,base_a,T36,2,4,5,5,4,5
+8,claude,wlm_sl,T35,5,4,5,5,5,4
+9,claude,wlm_json,T37,5,4,5,5,5,4
+10,gemini-pro,base_b,T46,1,2,1,1,3,2
+11,gpt-4o-mini,base_a,T27,5,4,5,5,5,5
+12,qwen-7b,wlm_sl,T29,1,4,4,2,4,3
+13,gpt-4o,wlm_hybrid_v2,T36,4,3,5,4,4,5
+14,gemini-pro,wlm_json,T15,4,4,4,5,4,4
+15,claude,wlm_hybrid_v2,T34,4,5,5,5,5,5

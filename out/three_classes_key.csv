@@ -1,0 +1,4 @@
+item,class,model,condition,task,claude_h,gpt4o_h
+1,"A  framework content, no external check possible",qwen-7b,wlm_json,T07,4,4
+2,"B  domain-independent, no answer key",gpt-4o,base_a,T52,5,5
+3,C  externally checkable,gemini-pro,wlm_json,T06,4,5
