@@ -4,7 +4,7 @@ Code and data for
 
 > **D/E/S: A Tri-Layer Generative Prompt Architecture for Structured Reasoning
 > and Hallucination Suppression in Large Language Models**
-> Wujie Gu · *Frontiers in Artificial Intelligence* · manuscript 1878392
+> Wujie Gu
 
 ---
 
